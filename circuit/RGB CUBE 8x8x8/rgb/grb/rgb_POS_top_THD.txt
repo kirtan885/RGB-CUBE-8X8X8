@@ -1,0 +1,17 @@
+### Module positions - created on 2026-03-13 16:58
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 0.000mm, Pcb Width 0.000mm [based on Edge bounding box]
+## Side : top
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+J8            Conn_01x08          PinHeader_1x08_P2.54mm_Vert.. 273.9550   -89.8450   273.9550   -89.8450      0.0    top       THD
+J3            Conn_01x08          PinHeader_1x08_P2.54mm_Vert.. 246.4150   -89.8450   246.4150   -89.8450      0.0    top       THD
+J2            Conn_01x08          PinHeader_1x08_P2.54mm_Vert.. 35.0000    -62.0000   35.0000    -62.0000     18.0    top       THD
+J1            Conn_01x08          PinHeader_1x08_P2.54mm_Vert.. 62.8750    -22.4850   62.8750    -22.4850      0.0    top       THD
+J4            Conn_01x08          PinHeader_1x08_P2.54mm_Vert.. 255.5950   -89.8450   255.5950   -89.8450      0.0    top       THD
+J6            Conn_01x08          PinHeader_1x08_P2.54mm_Vert.. 264.7750   -89.8450   264.7750   -89.8450      0.0    top       THD
+J9            Conn_01x03_Socket   PinSocket_1x03_P1.00mm_Vert.. 26.8250    -21.5600   26.8250    -21.5600      9.0    top       THD
+J7            Conn_01x08          PinHeader_1x08_P2.54mm_Vert.. 269.3650   -89.8450   269.3650   -89.8450      0.0    top       THD
+J5            Conn_01x08          PinHeader_1x08_P2.54mm_Vert.. 260.1850   -89.8450   260.1850   -89.8450      0.0    top       THD
+## End
