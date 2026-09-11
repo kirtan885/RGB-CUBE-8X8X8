@@ -1,0 +1,22 @@
+### Footprint positions - created on 2026-03-16T21:48:27+0530 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                           PosX       PosY       Rot  Side
+C1        0.1µF     C_0805_2012Metric              36.0650   -43.6550    0.0000  top
+C2        0.1µF     C_0805_2012Metric              52.3400   -45.6300    0.0000  top
+C3        0.1µF     C_0805_2012Metric              58.9600   -51.3850  180.0000  top
+C4        0.1µF     C_0805_2012Metric              42.6850   -49.4100  180.0000  top
+C5        0.1µF     C_0805_2012Metric              35.9150   -84.0750    0.0000  top
+C6        0.1µF     C_0805_2012Metric              52.1900   -86.0500    0.0000  top
+C7        0.1µF     C_0805_2012Metric              58.8400   -91.7800  180.0000  top
+C8        0.1µF     C_0805_2012Metric              42.5650   -89.8050  180.0000  top
+U1        74HC595   SOIC-16_3.9x9.9mm_P1.27mm      37.5900   -35.9500  180.0000  top
+U2        ULN2803A  SOIC-18W_7.5x11.6mm_P1.27mm    48.6400   -37.8700    0.0000  top
+U3        74HC595   SOIC-16_3.9x9.9mm_P1.27mm      57.4250   -59.0900    0.0000  top
+U4        ULN2803A  SOIC-18W_7.5x11.6mm_P1.27mm    46.3750   -57.1750  180.0000  top
+U5        74HC595   SOIC-16_3.9x9.9mm_P1.27mm      37.4500   -76.3750  180.0000  top
+U6        ULN2803A  SOIC-18W_7.5x11.6mm_P1.27mm    48.5000   -78.3000    0.0000  top
+U7        74HC595   SOIC-16_3.9x9.9mm_P1.27mm      57.3050   -99.4850    0.0000  top
+U8        ULN2803A  SOIC-18W_7.5x11.6mm_P1.27mm    46.2550   -97.5700  180.0000  top
+## End

@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-03-16T21:17:10+05:30*%
+%TF.ProjectId,RGB CUBE 4.0 1,52474220-4355-4424-9520-342e3020312e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-03-16 21:17:10*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X29750000Y-25250000D02*
+X64750000Y-25250000D01*
+X64750000Y-112250000D01*
+X29750000Y-112250000D01*
+X29750000Y-25250000D01*
+M02*

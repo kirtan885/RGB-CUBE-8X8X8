@@ -1,0 +1,18 @@
+Front (top side) placement file: 'E:\learn pcb degine\RGB CUBE 4.0\COM PLACM\RGB CUBE 4.0 1-top.pos'.
+Info: Component count: 16.
+Back (bottom side) placement file: 'E:\learn pcb degine\RGB CUBE 4.0\COM PLACM\RGB CUBE 4.0 1-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 16.
+Info: Done.
+Front (top side) placement file: 'E:\learn pcb degine\RGB CUBE 4.0\COM PLACM\RGB CUBE 4.0 1-top.pos'.
+Info: Component count: 16.
+Back (bottom side) placement file: 'E:\learn pcb degine\RGB CUBE 4.0\COM PLACM\RGB CUBE 4.0 1-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 16.
+Info: Done.
+Front (top side) placement file: 'E:\learn pcb degine\RGB CUBE 4.0\COM PLACM\RGB CUBE 4.0 1-top.pos'.
+Info: Component count: 16.
+Back (bottom side) placement file: 'E:\learn pcb degine\RGB CUBE 4.0\COM PLACM\RGB CUBE 4.0 1-bottom.pos'.
+Info: Component count: 0.
+Info: Full component count: 16.
+Info: Done.
